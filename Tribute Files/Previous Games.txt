@@ -1,0 +1,610 @@
+
+==============================
+The 1st Hunger Games
+
+District 2
+Royalty Buchanan
+Victor
+
+District 4
+Angela Jarvis
+2nd Place
+Angela was killed by Royalty using a Dagger
+
+District 3
+Madison English
+3rd Place
+Madison burned to death
+
+District 5
+Rodrigo Fernandez
+4th Place
+Rodrigo was killed by Royalty using a Dagger
+
+District 8
+Zachariah Wade
+5th Place
+Zachariah was killed by a Mutt
+
+District 11
+Amelia Wilder
+6th Place
+Amelia was killed by a Mutt
+
+District 9
+Gage Crawford
+7th Place
+Gage was killed by Angela using a Sword
+
+District 10
+Daniel Haynes
+8th Place
+Daniel was killed by Zachariah using a Trident
+
+District 10
+Kelsey Mays
+9th Place
+Kelsey was killed by Zachariah using a Trident
+
+District 9
+Ariyah Holman
+10th Place
+Ariyah was killed by Kelsey using a Bow
+
+District 12
+Jeremiah Lott
+11th Place
+Jeremiah was stung to death by Tracker Jackers
+
+District 5
+Ariana Young
+12th Place
+Ariana was killed by Zachariah using an Axe
+
+District 8
+Magnolia Albert
+13th Place
+Magnolia was killed by Royalty using a Dagger
+
+District 7
+Derrick Ewing
+14th Place
+Derrick was killed by Royalty using a Dagger
+
+District 1
+Jessica Church
+15th Place
+Jessica was killed by Derrick using a Dagger
+
+District 3
+Kash Warner
+16th Place
+Kash was killed by Jessica using a Sword
+
+District 6
+Blake Page
+17th Place
+Blake was killed by Jessica using a Sword
+
+District 2
+Anthony Sheppard
+18th Place
+Anthony was killed by Blake using a Dagger
+
+District 4
+Evan Jensen
+19th Place
+Evan was killed by Kash using an Axe
+
+District 7
+Emery Beach
+20th Place
+Emery was killed by Jessica using a Bow
+
+District 6
+Emily Nguyen
+21st Place
+Emily was killed by Emery using a Trident
+
+District 1
+Jeremy Murray
+22nd Place
+Jeremy was killed by Blake using a Dagger
+
+District 12
+Daleyza Simpson
+23rd Place
+Daleyza was killed by Jeremy using a Sword
+
+District 11
+Caleb Humphrey
+24th Place
+Caleb was killed by Blake using a Dagger
+
+==============================
+The 2nd Hunger Games
+
+District 10
+Jose Morales
+Victor
+
+District 7
+Daisy Drake
+2nd Place
+Daisy was killed by Jose using a Dagger
+
+District 5
+Heidi Oliver
+3rd Place
+Heidi was killed by Jose using a Dagger
+
+District 9
+Dominick Skinner
+4th Place
+Dominick died from dehydration
+
+District 3
+Averie Cabrera
+5th Place
+Averie was killed by Jose using a Dagger
+
+District 5
+Elijah Salazar
+6th Place
+Elijah was killed by a Mutt
+
+District 2
+Lennon Hooper
+7th Place
+Lennon was killed by Averie using a Spear
+
+District 1
+Chelsea Wong
+8th Place
+Chelsea was killed by a Mutt
+
+District 2
+William Gutierrez
+9th Place
+William was killed by Averie using a Bow
+
+District 4
+Eve Golden
+10th Place
+Eve was killed by William using a Dagger
+
+District 11
+Mckinley Sharp
+11th Place
+Mckinley was killed by William using a Dagger
+
+District 6
+Sage Hanson
+12th Place
+Sage was killed by Averie using a Spear
+
+District 9
+Julia Palmer
+13th Place
+Julia was killed by William using a Dagger
+
+District 8
+Isla Bowman
+14th Place
+Isla was killed by Julia using an Axe
+
+District 3
+Kasen Jennings
+15th Place
+Kasen was killed by Averie using a Spear
+
+District 10
+Kinsley Ryan
+16th Place
+Kinsley was killed by Kasen using a Mace
+
+District 1
+Lucas Turner
+17th Place
+Lucas was killed by Kinsley using an Axe
+
+District 6
+Abby Guy
+18th Place
+Abby was killed by Kasen using a Mace
+
+District 12
+Hazel Cummings
+19th Place
+Hazel was killed by Kinsley using an Axe
+
+District 4
+Roman Becker
+20th Place
+Roman was killed by Abby using a Dagger
+
+District 7
+Jaden Kirby
+21st Place
+Jaden was killed by Hazel using a Spear
+
+District 12
+Jude King
+22nd Place
+Jude was killed by Abby using a Dagger
+
+District 8
+Roberto Colon
+23rd Place
+Roberto was killed by Roman using a Spear
+
+District 11
+Odin Whitfield
+24th Place
+Odin was killed by Jude using a Mace
+
+==============================
+The 3rd Hunger Games
+
+District 10
+Harmony Anthony
+Victor
+
+District 7
+Camryn Merritt
+2nd Place
+Camryn was killed by Harmony using a Sword
+
+District 2
+Millie Jennings
+3rd Place
+Millie died from dehydration and starvation
+
+District 8
+Reese Bailey
+4th Place
+Reese was stung to death by Tracker Jackers
+
+District 8
+Rhett Knox
+5th Place
+Rhett burned to death
+
+District 5
+Lily Howe
+6th Place
+Lily burned to death
+
+District 4
+Alivia Gould
+7th Place
+Alivia burned to death
+
+District 1
+Dayana Vang
+8th Place
+Dayana was killed by Harmony using a Sword
+
+District 7
+Micah Jensen
+9th Place
+Micah was killed by Dayana using a Trident
+
+District 12
+Juliana Stout
+10th Place
+Juliana was killed by Harmony using a Throwing Axe
+
+District 9
+David Anthony
+11th Place
+David was stung to death by Tracker Jackers
+
+District 4
+Khalil Mack
+12th Place
+Khalil was killed by David using a Trident
+
+District 3
+Jude Bonner
+13th Place
+Jude was killed by Juliana using a Sickle
+
+District 10
+Rodrigo French
+14th Place
+Rodrigo was killed by Jude using a Sword
+
+District 3
+Lucia Hoffman
+15th Place
+Lucia was killed by Jude using a Sword
+
+District 12
+Rylan Reid
+16th Place
+Rylan was killed by Rodrigo using a Trident
+
+District 11
+Lorelei Walker
+17th Place
+Lorelei was killed by Rylan using a Sword
+
+District 6
+Winston Sweeney
+18th Place
+Winston was killed by David using a Dagger
+
+District 5
+Donovan Goff
+19th Place
+Donovan was killed by Lucia using a Mace
+
+District 9
+Diana Carson
+20th Place
+Diana was killed by Winston using a Machete
+
+District 1
+Jameson Whitaker
+21st Place
+Jameson was killed by Rylan using a Sword
+
+District 2
+Luciano Acevedo
+22nd Place
+Luciano was killed by Rylan using a Sword
+
+District 11
+Ronin Caldwell
+23rd Place
+Ronin was killed by Jameson using a Sickle
+
+District 6
+Arielle Goodman
+24th Place
+Arielle was killed by Winston using a Machete
+
+==============================
+The 4th Hunger Games
+
+District 3
+Hector Vincent
+Victor
+
+District 4
+Conor Scott
+2nd Place
+Conor drowned
+
+District 10
+Jaxson Mays
+3rd Place
+Jaxson was killed by Hector using a Sword
+
+District 2
+Paige Mann
+4th Place
+Paige was killed by Hector using a Sword
+
+District 9
+Cataleya Levy
+5th Place
+Cataleya was killed by Jaxson using a Bow
+
+District 10
+Matilda Tyler
+6th Place
+Matilda was killed by Jaxson using a Bow
+
+District 7
+Paislee Hughes
+7th Place
+Paislee was killed by Hector using a Sword
+
+District 8
+Luna Caldwell
+8th Place
+Luna was killed by Matilda using their fists
+
+District 6
+Silas Snyder
+9th Place
+Silas was killed by Jaxson using a Sickle
+
+District 5
+Gabriel Petersen
+10th Place
+Gabriel was stung to death by Tracker Jackers
+
+District 11
+Garrett Maxwell
+11th Place
+Garrett was killed by Paige using a Spear
+
+District 9
+Clark Cunningham
+12th Place
+Clark was killed by Conor using a Machete
+
+District 2
+Kairo Matthews
+13th Place
+Kairo was killed by Luna using a Trident
+
+District 11
+Amaya Dyer
+14th Place
+Amaya was killed by Conor using a Machete
+
+District 8
+Roberto Rosales
+15th Place
+Roberto was stung to death by Tracker Jackers
+
+District 3
+Gia Ballard
+16th Place
+Gia was killed by Amaya using a Sickle
+
+District 6
+Andrea Avila
+17th Place
+Andrea was killed by Amaya using a Sickle
+
+District 12
+Cecilia Hunt
+18th Place
+Cecilia was killed by Andrea using a Spear
+
+District 12
+Julian Calderon
+19th Place
+Julian was killed by Andrea using a Spear
+
+District 1
+Demi Hale
+20th Place
+Demi was killed by Julian using a Sickle
+
+District 5
+Hattie Torres
+21st Place
+Hattie was killed by Demi using a Sword
+
+District 1
+Weston Shaw
+22nd Place
+Weston was killed by Gia using a Sword
+
+District 4
+Madelyn Avila
+23rd Place
+Madelyn was killed by Gia using a Sword
+
+District 7
+Landen Ballard
+24th Place
+Landen was killed by Gia using a Sword
+
+==============================
+The 5th Hunger Games
+
+District 6
+Wade Morrow
+Victor
+
+District 12
+Millie Thompson
+2nd Place
+Millie was killed by Wade using a Stick
+
+District 5
+Lennox Warren
+3rd Place
+Lennox was killed by Millie using a Knife
+
+District 11
+Catherine Crawford
+4th Place
+Catherine drowned
+
+District 8
+Elle Winters
+5th Place
+Elle drowned
+
+District 10
+Lily Baxter
+6th Place
+Lily was killed by Elle using a Sword
+
+District 1
+Daniela Herring
+7th Place
+Daniela drowned
+
+District 4
+Ellis Joyce
+8th Place
+Ellis drowned
+
+District 11
+Seth Wolfe
+9th Place
+Seth drowned
+
+District 12
+Ryan Roy
+10th Place
+Ryan was killed by Lily using a Rock
+
+District 10
+Kevin Kerr
+11th Place
+Kevin unwittingly eats toxic berries
+
+District 7
+Ian Ford
+12th Place
+Ian was killed by Millie using a Knife
+
+District 2
+Kian Bailey
+13th Place
+Kian was killed by Lennox using a Knife
+
+District 1
+Major Jefferson
+14th Place
+Major was killed by Millie using a Knife
+
+District 6
+Ashley Wiggins
+15th Place
+Ashley was killed by Ellis using a Machete
+
+District 7
+Octavia Jones
+16th Place
+Octavia was killed by Ashley using a Sword
+
+District 5
+Liliana Marshall
+17th Place
+Liliana was killed by Ian using a Sickle
+
+District 9
+Luka Hutchinson
+18th Place
+Luka was killed by Liliana using a Knife
+
+District 2
+Harlow Gilmore
+19th Place
+Harlow was killed by Liliana using a Knife
+
+District 3
+Zachary Padilla
+20th Place
+Zachary was killed by Liliana using a Knife
+
+District 9
+Carter Alston
+21st Place
+Carter was killed by Harlow using a Trident
+
+District 3
+Kaia Christensen
+22nd Place
+Kaia was killed by Carter using a Sword
+
+District 4
+Grace Hodges
+23rd Place
+Grace was killed by Carter using a Sword
+
+District 8
+Luke Logan
+24th Place
+Luke was killed by Grace using a Sickle
